@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MyTrack</string>
+
+    <string name="confirm_email">Please, confirm your email first.</string>
+    <string name="wrong_credentials">Wrong email or password.</string>
+    <string name="registration_confirmed">You have been successfully registered! Please, confirm your email to login.</string>
+    <string name="email_taken">We\'re sorry, this email is already in use.</string>
 </resources>
